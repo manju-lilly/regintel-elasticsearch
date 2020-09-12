@@ -1,0 +1,350 @@
+AWSTemplateFormatVersion: "2010-09-09"
+
+Description: >
+  Name of your project
+
+Parameters:
+  #
+  # Allows selecting different values based on the environment being deployed to
+  DeployEnvironment:
+    Type: String
+    AllowedValues:
+        - dev
+        - qa
+        - prod
+  CreateServiceLinkedRole:
+    Type: String
+    AllowedValues:
+      - "Yes"
+      - "No"
+  AppName:
+    Type: String
+  CostCenter:
+    Type: String
+  CostCenterApprover:
+    Type: String
+  SystemOwner:
+    Type: String
+  SystemCustodian:
+    Type: String
+  PrimaryItContact:
+    Type: String
+  Level1BusinessArea:
+    Type: String
+  DataClassification:
+    Type: String
+    AllowedValues:
+      - "Green"
+      - "Yellow"
+      - "Orange"
+      - "Red"
+      - "TBD"
+  Hipaa:
+    Type: String
+    AllowedValues:
+      - "Yes"
+      - "No"
+      - "TBD"
+
+Conditions:
+  IsDev: !Equals [ !Ref DeployEnvironment, "dev" ]
+  CreateServiceLinkedRole: !Equals [ !Ref CreateServiceLinkedRole, "Yes" ]
+  DoNotCreateServiceLinkedRole: !Not [ !Equals [ !Ref CreateServiceLinkedRole, "Yes" ] ]
+
+Resources:
+  ElasticsearchServiceLinkedRole:
+    Condition: CreateServiceLinkedRole
+    Type: AWS::IAM::ServiceLinkedRole
+    Properties:
+      AWSServiceName: es.amazonaws.com
+
+  ElasticsearchDomainWithRoleDependency:
+    Condition: CreateServiceLinkedRole
+    Type: AWS::Elasticsearch::Domain
+    DependsOn: 
+      - ElasticsearchSearchSlowLogGroupResourcePolicy
+      - ElasticsearchIndexSlowLogGroupResourcePolicy
+      - ElasticsearchApplicationLogGroupResourcePolicy
+      - ElasticsearchServiceLinkedRole
+    Properties:
+      ElasticsearchClusterConfig:
+        !If
+          - IsDev
+          - InstanceCount: 1
+            InstanceType: m5.large.elasticsearch
+            DedicatedMasterEnabled: false
+            ZoneAwarenessEnabled: false
+          - InstanceCount: 6
+            InstanceType: m5.xlarge.elasticsearch
+            DedicatedMasterEnabled: true
+            DedicatedMasterCount: 3
+            DedicatedMasterType: c5.large.elasticsearch
+            ZoneAwarenessEnabled: true
+            ZoneAwarenessConfig:
+              AvailabilityZoneCount: 3
+      EBSOptions:
+        EBSEnabled: true
+        VolumeSize: 10
+        VolumeType: gp2
+      EncryptionAtRestOptions:
+        Enabled: true
+        KmsKeyId: alias/aws/es
+      ElasticsearchVersion: "7.7"
+      LogPublishingOptions:
+        SEARCH_SLOW_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchSearchSlowLogGroup.Arn
+          Enabled: true
+        INDEX_SLOW_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchIndexSlowLogGroup.Arn
+          Enabled: true
+        ES_APPLICATION_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchApplicationLogGroup.Arn
+          Enabled: true
+      NodeToNodeEncryptionOptions:
+        Enabled: true
+      VPCOptions:
+        SecurityGroupIds:
+          - !Ref ElasticsearchSecurityGroup
+        SubnetIds: !If
+          - IsDev
+          - [ !Select [ 0, !Split [ ",",  !ImportValue PrivateSubnets ] ] ]
+          - !Split [ ",",  !ImportValue PrivateSubnets ]
+
+  ElasticsearchDomainWithoutRoleDependency:
+    Condition: DoNotCreateServiceLinkedRole
+    Type: AWS::Elasticsearch::Domain
+    DependsOn: 
+      - ElasticsearchSearchSlowLogGroupResourcePolicy
+      - ElasticsearchIndexSlowLogGroupResourcePolicy
+      - ElasticsearchApplicationLogGroupResourcePolicy
+    Properties:
+      ElasticsearchClusterConfig:
+        !If
+          - IsDev
+          - InstanceCount: 1
+            InstanceType: m5.large.elasticsearch
+            DedicatedMasterEnabled: false
+            ZoneAwarenessEnabled: false
+          - InstanceCount: 6
+            InstanceType: m5.xlarge.elasticsearch
+            DedicatedMasterEnabled: true
+            DedicatedMasterCount: 3
+            DedicatedMasterType: c5.large.elasticsearch
+            ZoneAwarenessEnabled: true
+            ZoneAwarenessConfig:
+              AvailabilityZoneCount: 3
+      EBSOptions:
+        EBSEnabled: true
+        VolumeSize: 10
+        VolumeType: gp2
+      EncryptionAtRestOptions:
+        Enabled: true
+        KmsKeyId: alias/aws/es
+      ElasticsearchVersion: "7.7"
+      LogPublishingOptions:
+        SEARCH_SLOW_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchSearchSlowLogGroup.Arn
+          Enabled: true
+        INDEX_SLOW_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchIndexSlowLogGroup.Arn
+          Enabled: true
+        ES_APPLICATION_LOGS:
+          CloudWatchLogsLogGroupArn: !GetAtt ElasticsearchApplicationLogGroup.Arn
+          Enabled: true
+      NodeToNodeEncryptionOptions:
+        Enabled: true
+      VPCOptions:
+        SecurityGroupIds:
+          - !Ref ElasticsearchSecurityGroup
+        SubnetIds: !If
+          - IsDev
+          - [ !Select [ 0, !Split [ ",",  !ImportValue PrivateSubnets ] ] ]
+          - !Split [ ",",  !ImportValue PrivateSubnets ]
+
+  ElasticsearchSearchSlowLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      RetentionInDays: 60
+
+  ElasticsearchIndexSlowLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      RetentionInDays: 60
+
+  ElasticsearchApplicationLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      RetentionInDays: 60
+
+  ElasticsearchResourcePolicyFunctionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      PermissionsBoundary: !Sub "arn:aws:iam::${AWS::AccountId}:policy/LZ-IAM-Boundary"
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+              AWS: !Sub ${AWS::AccountId}
+            Action: sts:AssumeRole
+      Policies:
+        - PolicyName: "Add-Or-Remove-Resource-Based-Policies-On-Log-Groups"
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action:
+                  - logs:DeleteResourcePolicy
+                  - logs:PutResourcePolicy
+                Resource: "*"
+
+  ElasticsearchSearchSlowLogGroupResourcePolicy:
+    Type: Custom::ResourcePolicy
+    Properties:
+      ServiceToken: !GetAtt ElasticsearchResourcePolicyFunction.Arn
+      PolicyName: !Ref ElasticsearchSearchSlowLogGroup
+      LogGroupArn: !GetAtt ElasticsearchSearchSlowLogGroup.Arn
+
+  ElasticsearchIndexSlowLogGroupResourcePolicy:
+    Type: Custom::ResourcePolicy
+    Properties:
+      ServiceToken: !GetAtt ElasticsearchResourcePolicyFunction.Arn
+      PolicyName: !Ref ElasticsearchIndexSlowLogGroup
+      LogGroupArn: !GetAtt ElasticsearchIndexSlowLogGroup.Arn
+
+  ElasticsearchApplicationLogGroupResourcePolicy:
+    Type: Custom::ResourcePolicy
+    Properties:
+      ServiceToken: !GetAtt ElasticsearchResourcePolicyFunction.Arn
+      PolicyName: !Ref ElasticsearchApplicationLogGroup
+      LogGroupArn: !GetAtt ElasticsearchApplicationLogGroup.Arn
+
+  CrHelperLambdaLayer:
+    Type: AWS::Lambda::LayerVersion
+    Properties:
+      CompatibleRuntimes:
+        - python3.7
+        - python3.6
+      Content:
+        S3Bucket: !Sub "aws-lz-source-539199905087-${AWS::Region}"
+        S3Key: lambda/layers/crhelper.zip
+      Description: Python library - includes crhelper and requests
+      LayerName: crhelper
+
+  ElasticsearchResourcePolicyFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      Description: Put a resource-based policy on a log group that allows Elasticsearch to access it
+      Handler: index.handler
+      Layers:
+        - !Ref CrHelperLambdaLayer
+      Role: !GetAtt ElasticsearchResourcePolicyFunctionRole.Arn
+      Runtime: python3.7
+      Code:
+        ZipFile: |
+          import os
+          import json
+          import boto3
+          import logging
+
+          from crhelper import CfnResource
+
+          LOG_LEVEL = os.environ.get('LOG_LEVEL', 'DEBUG')
+          log = logging.getLogger(__name__)
+          log.setLevel(LOG_LEVEL)
+
+          helper = CfnResource(json_logging=False, log_level=LOG_LEVEL, boto_level='CRITICAL')
+
+          @helper.create
+          def put_resource_based_policy(event, _):
+            policy_name = event['ResourceProperties']['PolicyName']
+            log_group_arn = event['ResourceProperties']['LogGroupArn']
+            log.debug("Log group arn: {}".format(log_group_arn))
+
+            client = boto3.client('logs')
+            # 
+            client.put_resource_policy(
+              policyName=policy_name,
+              policyDocument="""{{ 
+                "Version": "2012-10-17", 
+                "Statement": [ 
+                  {{ 
+                    "Effect": "Allow",
+                    "Principal": {{
+                      "Service": "es.amazonaws.com"
+                    }},
+                    "Action": [
+                      "logs:PutLogEvents",
+                      "logs:CreateLogStream"
+                    ],
+                    "Resource": "{}"
+                  }}
+                ]
+              }}""".format(log_group_arn)
+            )
+            # 
+            return policy_name
+
+          @helper.update
+          def update_resource_based_policy(event, context):
+            return put_resource_based_policy(event, context)
+
+          @helper.delete
+          def delete_resource_based_policy(event, _):
+            policy_name = event['PhysicalResourceId']
+
+            client = boto3.client('logs')
+            client.delete_resource_policy(policyName=policy_name)
+
+          def handler(event, context):
+            log.debug("Event: {}".format(json.dumps(event, default=str)))
+            helper(event, context)
+
+  ElasticsearchSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: "Any resource that accesses the domain should be added to this group."
+      VpcId: !ImportValue DefaultVPC
+      Tags:
+        - Key: Name
+          Value: !Sub "${AWS::StackName}-ElasticsearchSecurityGroup"
+
+  ElasticsearchSecurityGroupIngress:
+    Type: AWS::EC2::SecurityGroupIngress
+    Properties:
+      GroupId: !Ref ElasticsearchSecurityGroup
+      SourceSecurityGroupId: !Ref ElasticsearchSecurityGroup
+      IpProtocol: "-1"
+
+Outputs:
+  DomainArn:
+    Value: !If
+      - CreateServiceLinkedRole
+      - !GetAtt ElasticsearchDomainWithRoleDependency.Arn
+      - !GetAtt ElasticsearchDomainWithoutRoleDependency.Arn
+    Export:
+      Name: !Sub "${AWS::StackName}-DomainArn"
+  DomainEndpoint:
+    Value: !If
+      - CreateServiceLinkedRole
+      - !GetAtt ElasticsearchDomainWithRoleDependency.DomainEndpoint
+      - !GetAtt ElasticsearchDomainWithoutRoleDependency.DomainEndpoint
+    Export:
+      Name: !Sub "${AWS::StackName}-DomainEndpoint"
+  SlowSearchLogGroupArn:
+    Value: !GetAtt ElasticsearchSearchSlowLogGroup.Arn
+    Export:
+      Name: !Sub "${AWS::StackName}-SlowSearchLogGroupArn"
+  SlowIndexLogGroupArn:
+    Value: !GetAtt ElasticsearchIndexSlowLogGroup.Arn
+    Export:
+      Name: !Sub "${AWS::StackName}-SlowIndexLogGroupArn"
+  ApplicationLogGroupArn:
+    Value: !GetAtt ElasticsearchApplicationLogGroup.Arn
+    Export:
+      Name: !Sub "${AWS::StackName}-ApplicationLogGroupArn"
+  SecurityGroupId:
+    Value: !GetAtt ElasticsearchSecurityGroup.GroupId
+    Export:
+      Name: !Sub "${AWS::StackName}-SecurityGroupId"
