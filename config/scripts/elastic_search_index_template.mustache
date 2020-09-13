@@ -1,0 +1,70 @@
+{
+    "index_patterns": [
+        "reg_intel_*",
+        "regint*"
+    ],
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "index": {
+      "analysis": {
+        "analyzer": {
+          "synonym_analyzer": {
+            "type": "custom",
+            "tokenizer": "standard",
+            "filter": ["synonym_filter"]
+          }
+        },
+        "filter": {
+          "synonym_filter": {
+            "type": "synonym",
+            "synonyms_path": "analyzers/F39598502"
+          }
+        }
+      }
+    }
+  },
+    "mappings": {
+        "_doc": {
+            "_source": {
+                "enabled": false
+            },
+            "properties": {
+                "id": {
+                    "type": "text"
+                },
+                "format": {
+                    "type": "text"
+                },
+                "name": {
+                    "type": "text"
+                },
+                "title": {
+                    "type": "text"
+                },
+                "drug_name": {
+                    "type": "text"
+                },
+             "s3_raw_url":{
+                     "type": "text",   
+                },
+             "body_text": {
+                     "type": "text",      
+                     "term_vector": "with_positions_offsets",
+                     "analyzer": "synonym_analyzer"         
+                },
+                "meta_nested": {
+                    "type": "nested"
+                },
+                "source_url": {
+                    "type": "text"
+                },
+                "date _created": {
+                    "type": "date"
+                },
+                "date_updated": {
+                    "type": "date"
+            }
+        }
+    }
+}
