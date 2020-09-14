@@ -1,0 +1,1282 @@
+             I7T-MC-RMAA Protocol                                                 Page 1
+                                           1. Protocol I7T-MC-RMAA
+                                   Disposition of [14C]-LY2623091 following Oral
+                                       Administration in Healthy Subjects
+                                       Confidential Information
+The information contained in this protocol is confidential and is intended for the use of
+clinical investigators. It is the property of Eli Lilly and Company or its subsidiaries and
+should not be copied by or distributed to persons not involved in the clinical investigation of
+LY2623091, unless such persons are bound by a confidentiality agreement with Eli Lilly
+and Company or its subsidiaries. This document and its associated attachments are
+subject to United States Freedom of Information Act (FOIA) Exemption 4.
+                                              LY2623091
+An open-label study to determine the disposition of radioactivity and LY2623091 in healthy
+male subjects following a single oral dose of 25 mg LY2623091 free base containing
+        [14C]-LY2623091 (approximately 100 uCi).
+                                      Eli Lilly and Company
+                                 Indianapolis, Indiana USA 46285
+       Protocol Electronically Signed and Approved by Lilly on date provided below.
+                                Approval Date: 10-Jul-2014 GMT
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 2
+                                              2. Synopsis
+Clinical Pharmacology Protocol Synopsis: Study I7T-MC-RMAA
+  Name of Investigational Product: LY2623091
+Title of Study: Disposition of [14C]-LY2623091 following Oral Administration in Healthy Subjects
+Number of Planned Subjects: Up to 8 subjects toPhase of Development: 1
+ ensure that 4 subjects complete
+Length of Study: Approximately 30 days (from Check-in through Follow-up visit)
+         Objectives:
+      Primary Objective:
+To determine the disposition of radioactivity and LY2623091 in healthy subjects following oral
+administration of a single dose of 25 mg (100 uCi) [14C]-LY2623091.
+     Secondary Objectives:
+To determine the pharmacokinetics (PK) of total radioactivity in plasma and whole blood, and
+LY2623091 in plasma following oral administration of a single dose of 25 mg (100 uCi)
+              [14C]-LY2623091.
+To assess the mass balance of LY2623091 by quantifying radioactivity excretion in urine, feces, and
+       expired air (if applicable).
+To identify the major metabolites of LY2623091 in plasma, urine, and feces (if applicable).
+To assess the safety and tolerability of a single dose of LY2623091 in healthy subjects.
+Study Design: An open-label study in which up to 8 healthy male subjects will receive a single dose of 25 mg
+LY2623091 containing approximately 100 uCi [14C]-LY2623091.
+Diagnosis and Main Criteria for Inclusion: Overtly healthy (as determined by medical history physical
+examination, clinical laboratory tests, and electrocardiogram [ECG]) males aged 18 to 65 years, inclusive, with a
+body mass index of 18.5 to 32.0 kg/m2, inclusive.
+Test Product, Dosage, and Mode of Administration: Single oral dose of 25 mg LY2623091 free base in
+solution containing approximately 100 uCi [14C]-LY2623091
+Planned Duration of Treatment: A single oral dose of [14C]-LY2623091 will be administered on Day 1.
+Subjects will be confined to the clinical research unit for a minimum of 14 days postdose (Day 15) to a maximum
+  of 21 days postdose (Day 22).
+    Criteria for Evaluation:
+Safety: Safety parameters will include adverse event assessments, clinical laboratory evaluations, vital sign
+measurements, 12-lead ECGs, body weight, and physica examinations.
+Bioanalytical: Concentrations of LY2623091 in plasma will be assayed using a validated bioanalytical method.
+Concentrations of radioactivity in whole blood, plasma, urine, feces, and expired air (if applicable) will be
+assessed by liquid scintillation counting of radioactivity. Quantitation of metabolites may also be considered, if
+deemed appropriate. Metabolite identification in urine, feces, and plasma will be determined using appropriate
+        techniques.
+Pharmacokinetic: The primary PK parameters wil include: maximum observed drug concentration (Cmax), time
+           ofCmax (tmax), area under the concentration versus time curve (AUC) from time zero to time t, where t is the last
+time point with a measurable concentration (AUC[O-tlast]), AUC from zero to infinity (AUC[O-0]), and half-life
+associated with the terminal rate constant (Az) in noncompartmental analysis (t1/2). Other noncompartmental
+parameters, such as apparent total body clearance of drug calculated after extra-vascular administration (CL/F) and
+apparent volume of distribution during the terminal phase after extra-vascular administration (Vz/F), may be
+reported. The blood cell/plasma distribution will be calculated for radiolabeled material. The percentage of
+radiolabeled dose excreted in feces and urine will be calculated. The percentage of radiolabeled dose excreted in
+expired air will also be calculated, if applicable.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 3
+       Evaluation Methods:
+Safety: The safety parameters will be listed and summarized using standard descriptive statistics.
+Pharmacokinetic: The PK parameter estimates for whole blood and plasma total radioactivity, plasma LY2623091,
+and metabolites (if applicable) will be calculated using standard noncompartmental methods of analysis.
+Descriptive statistics will be calculated for PK parameters but no formal statistical analysis is planned.
+The blood cell/plasma distribution will be calculated for radiolabeled material. The percentage of radiolabeled
+dose excreted in feces, urine, and expired air (if applicable) will be calculated.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 4
+                                          3. Table of Contents
+                            Disposition of [14C]-LY26?3091 following Oral Administration
+                                           in Healthy Subjects
+            Section                                                                 Page
+           1.Protocol I7T-MC-RMAA Disposition of [14C]-LY2623091
+       following Oral Administration in Healthy Subjects                                1
+            2. Synopsis                                                                2
+           3.Table of Contents                                                                          4
+           4.Abbreviations and Definitions                                                                          9
+           5. Introduction                                                             12
+          5.1. General Introduction                                                    12
+            5.2.Rationale and Justification for the Study                                                                      13
+           6. Objectives                                                              14
+            6.1.Primary Objective                                                                      14
+           6.2. Secondary Objectives                                                   14
+           7.Investigational Plan                                                                         15
+           7.1. Summary of Study Design                                               15
+            7.2.Discussion of Design and Control                                                                      16
+           8.Study Population                                                                         17
+        8.1. Criteria for Enrollment                                                  17
+             8.1.1.Inclusion Criteria                                                                   17
+              8.1.2Exclusion Criteria                                                                   18
+             8.1.3.Rationale for Exclusion of Certain Study Candidates                                                                   19
+           8.2. Discontinuation                                                       20
+             8.2.1.Discontinuation of Subjects                                                                   20
+              8.2.1.1.Subjects Inadvertently Enrolled                                                                20
+              8.2.1.2.Discontinuations from Investigational Product or from
+                        the Study                                                     20
+              8.2.1.3.Subjects Lost to Follow-up                                                                21
+             8.2.2.Discontinuation of Study Sites                                                                   21
+             8.2.3.Discontinuation of the Study                                                                   21
+            9. Treatment                                                              22
+            9.1.Treatment Materials and Supplies                                                                      22
+            9.2.Treatment Administration                                                                      22
+            9.3.Rationale for Selection of Dose                                                                      23
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 5
+      9.4. Specific Restrictions/Requirements.                                        23
+            9.5. Blinding                                                             24
+            9.6. Concomitant Therapy                                                                      24
+    10. Sample Collection and Safety Data Collection                                  25
+          10.1. Laboratory Samples                                                    25
+     10.2. Samples for Pharmacokinetic and Pharmacodynamic Evaluations                 25
+            10.2.1. Pharmacokinetic Samples                                           25
+            10.2.1.1. Whole Blood and Plasma Samples                                  25
+            10.2.1.2. Urine and Feces Samples                                         25
+         10.2.1.3. Expired Air and Other Biological Samples                            26
+             10.2.2. Bioanalysis                                                       26
+             10.2.3.Pharmacodynamic Evaluations                                                                  26
+        10.3. Samples for Biomarker Research                                          26
+         10.4. Safety Evaluations                                                     27
+             10.4.1. Adverse Events                                                   27
+           10.4.2. Serious Adverse Events                                             28
+         10.4.2.1. Suspected Unexpected Serious Adverse Reactions                     29
+           10.4.3. Other Safety Measures                                              29
+            10.4.3.1. Physical Examination                                            29
+              10.4.3.2.Vital Signs                                                               29
+               10.4.3.3. Body Weight                                                  30
+             10.4.3.4. Electrocardiograms                                              30
+            10.4.4. Safety Monitoring                                                 30
+             10.4.5. Complaint Handling                                                30
+      10.5. Appropriateness and Consistency of Measurements                           31
+            10.6. Compliance                                                          31
+        11. Sample Size and Data Analyses                                             32
+        11.1. Determination of Sample Size                                            32
+         11.2. Data Analysis Plans                                                    32
+           11.2.1. General Considerations                                             32
+             11.2.2.Study Participant Disposition                                                                  32
+             11.2.3.Study Participant Characteristics                                                                  32
+             11.2.4.Pharmacokinetic Analyses                                                                  32
+          11.2.4.1. Pharmacokinetic Parameter Estimation                              32
+        11.2.4.2. Pharmacokinetic Statistical Inference                                33
+             11.2.5. Pharmacodynamic Analyses                                          33
+          11.2.6. Pharmacokinetic/Pharmacodynamic Analyses                            33
+             11.2.7.Safety Analyses                                                                  33
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 6
+         11.2.7.1. Clinical Evaluation of Safety                                      33
+        11.2.7.2. Statistical Evaluation of Safety                                     33
+          11.3. Interim Analyses                                                      33
+           12. Data Management Methods                                                 34
+         12.1. Data Quality Assurance                                                 34
+          12.2. Data Capture Systems                                                  34
+          12.2.1. Source Data and Case Report Form                                    34
+            12.2.2. Ancillary Data                                                    35
+ 13. Informed Consent, Ethical Review, and Regulatory Considerations                  36
+           13.1. Informed Consent                                                      36
+           13.2 Ethical Review                                                        36
+        13.3. Regulatory Considerations                                               37
+          13.3.1. Investigator Information                                             37
+           13.3.2. Protocol Signatures                                                37
+          13.3.3. Final Report Signature                                              37
+           14. References                                                              38
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 7
+                                          List of Tables
+            Table                                                                   Page
+            Table RMAA.1    Study Drug Regimen                                                              22
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 8
+                                        List of Attachments
+             Attachment                                                              Page
+          Attachment 1.    Protocol RMAA Study Schedule                                                               39
+          Attachment 2. Protocol RMAA Clinical Laboratory Tests                                                               43
+          Attachment 3.     Protocol RMAA Blood Sampling Summary                                                               44
+         LY2623091
+             I7T-MC-RMAA Protocol                                                 Page 9
+                                      4. Abbreviations and Definitions
+              Term         Definition
+            AEadverse event: any untoward medical occurrence in a patient or clinical investigation
+subject administered a pharmaceutical product that does not necessarily have a causal
+relationship with this treatment. An AE can therefore be any unfavorable and unintended
+  sign (including an abnormal laboratory finding), symptom, or disease temporally
+associated with the use of a medicinal (investigational) product, whether or not related to
+              the medicinal (investigational) product.
+            AUCarea under the concentration versus time curve
+        AUC(0-tlast)area under the concentration versus time curve from time zero to time t, where t is the last
+              time point with a measurable concentration
+           AUC(0-)area under the concentration versus time curve from zero to infinity
+          auditA systematic and independent examination of the trial-related activities and documents to
+determine whether the evaluated trial-related activities were conducted, and the data were
+recorded, analyzed, and accurately reported according to the protocol, sponsor's standard
+operating procedures (SOPs), good clinical practice (GCP), and the applicable regulatory
+                       requirement(s).
+            BMI          body mass index
+            CFR     Code of Federal Regulations
+            CKD      chronic kidney disease
+           CLIFapparent total body clearance of drug calculated after extra-vascular administration
+           Cmax    maximum observed drug concentration
+      clinical researchIndividua responsible for the medical conduct of the study. Responsibilities of the CRP
+        physician (CRP)may be performed by a physician, clinical research scientist, global safety physician or
+                    other medical officer.
+          complaintA complaint is any written, electronic, or oral communication that alleges deficiencies
+related to the identity, quality, purity, durability, reliability, safety or effectiveness, or
+             performance of a drug or drug delivery system.
+          complianceAdherence to all the trial-related requirements, good clinical practice (GCP) requirements,
+             and the applicable regulatory requirements.
+            CRU     clinical research unit
+           CRF/eCRFcase report form/electronic case report form: Sometimes referred to as clinical report
+form. A printed or electronic form for recording study participants' data during a clinical
+               study, as required by the protocol.
+            CSEclinically significant event: A moderate to severe adverse event (AE) abnormal clinical
+sign, or clinical laboratory finding that may pose a risk to the well-being of the subject.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 10
+            ECG        electrocardiogram
+     end of trial (study)End of trial (study) is the date of the last visit or last scheduled procedure shown in the
+          Study Schedule for the last subject in the study.
+          enrollThe act of assigning a subject to a treatment. Subjects who are enrolled in the trial are
+              those who have been assigned to a treatment.
+          enterSubjects entered into a trial are those who sign the informed consent form directly or
+          through their legally acceptable representatives.
+            GCPgood clinical practice: A standard for the design, conduct, performance, monitoring,
+auditing, recording, analyses, and reporting of clinical trials that provides assurance that
+the data and reported results are credible and accurate, and that the rights, integrity, and
+         confidentiality of trial subjects are protected.
+           HIV       human immunodeficiency virus
+           IBInvestigator's Brochure: A compilation of the clinical and nonclinical data on the
+investigationa product(s) which is relevant to the study of the investigational product(s)
+                      in human subjects.
+           ICF        informed consent form
+           ICH International Conference on Harmonisation
+        Informed consentA process by which a subject voluntarily confirms his or her willingness to participate in a
+particular trial, after having been informed of all aspects of the trial that are relevant to the
+subject's decision to participate. Informed consent is documented by means of a written,
+                signed and dated informed consent form.
+        investigatorA person responsible for the conduct of the clinical trial at a trial site. If a trial is
+conducted by a team of individuals at a trial site, the investigator is the responsible leader
+        of the team and may be called the principal investigator.
+           IRBinstitutional review board: A board or committee (institutional, regional, or national)
+  composed of medical professionals and nonmedical members whose responsibility is to
+verify that the safety, welfare, and human rights of the subjects participating in a clinical
+                    trial are protected.
+            LSC  liquid scintillation counting
+            MRA mineralocorticoid receptor antagonist
+            PGx         pharmacogenetic
+            PK          pharmacokinetic
+            SAEserious adverse event: Any untoward medical occurrence that at any dose results in death,
+is life threatening, requires inpatient hospitalization or prolongation of existing
+hospitalization, results in persistent or significant disability/incapacity, or is a congenital
+                     anomaly/birth defect.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 11
+           screenThe act of determining if an individual meets minimum requirements to become part of a
+pool of potential candidates for participation in a clinical trial. In this study, screening
+involves invasive or diagnostic procedures and/or tests (for example, blood draws). For
+this type of screening, informed consent for these screening procedures and/or tests shall
+ be obtained; this consent may be separate from obtaining consent for the study.
+          subjectAn individual who is or becomes a participant in clinical research, either as a recipient of
+the investigational product(s) or as a control. A subject may be either a healthy human or
+                        a patient.
+            SUSARssuspected unexpected serious adverse reactions
+          t1/2half-life associated with the terminal rate constant (A) in non-compartmental analysis
+           tmax time of maximum observed drug concentration
+            TPO     third-party organization
+           VzIFapparent volume of distribution during the terminal phase after extra-vascular
+                        administration
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 12
+                            Disposition of [14C]-LY26?3091 following Oral Administration
+                                           in Healthy Subjects
+                                            5. Introduction
+               5.1. General Introduction
+LY2623091 is a selective, orally active, nonsteroidal, competitive mineralocorticoid receptor
+antagonist (MRA) currently being developed for the treatment of patients with hypertension.
+Excessive aldosterone production and increased mineralocorticoid receptor activity have been
+hypothesized to play a role in the disease pathogenesis of patients with uncontrolled blood
+pressure while on multiple antihypertensive drugs (Shibata and Itoh 2012). Aldosterone
+inhibition with patients that have difficult to control blood pressure may be successful, but
+current agents that inhibit aldosterone have the side effects of gynecomastia and hyperkalemia.
+This highlights the need for a new MRA with an improved efficacy and safety profile.
+LY2623091 may be a safer, better tolerated, and more efficacious alternative.
+LY2623091 has been evaluated in 2 clinical pharmacology studies (single ascending and
+multiple ascending dose studies) and 1 multiple dose therapeutic study in patients with chronic
+kidney disease (CKD). LY2623091 was generally safe and well tolerated in healthy subjects at
+single doses up to 450 mg or after 7 days of daily dosing up to 25 mg and in CKD patients after
+21 days of daily dosing up to 10 mg. At the highest single dose of 450 mg -Y2623091
+administered in clinical studies, mild and transient serum potassium elevations above the upper
+limit of normal were observed; no other consistent increases in serum potassium were seen for
+any other group. After 7 days of daily dosing to healthy subjects, there were transient
+asymptomatic increases in serum potassium levels after an oral potassium challenge; effects
+   consistent with the expected pharmacology of LY2623091.
+After single oral dosing in healthy subjects in the fed state at doses ranging from 5 to 450 mg,
+median peak LY2623091 plasma concentrations (as represented by time of maximum observed
+drug concentrations [tmax]) were 3 to 4 hours postdose. After reaching the maximum observed
+drug concentration (Cmax), the plasma LY2623091 concentration exhibited a biphasic decline,
+with a shallow distribution phase, and a median terminal phase half-life (t1/2) of 47.3 to
+52.3 hours. Both LY2623091 exposure (as represented by area under the concentration versus
+time curve [AUC] from zero to infinity [AUCo-o]) and Cmax generally increased in proportion to
+           dose.
+A 5-mg/kg dose of [14C]-LY2623091 was administered orally to male and female rats or male
+dogs, with blood and plasma collected at various time points up to 120 to 144 hours postdose and
+excreta collected for up to 10 days. Tissue distribution was determined in male Long Evans rats
+for radiation dosimetry calculations. The mean terminal elimination half-life of LY2623091 in
+plasma was 2 to 4 hours after oral administration in rats and approximately 16 hours in dogs with
+both species showing a longer half-life of elimination for radioactivity from plasma ranging from
+27 to 32.5 hours. The mean total recovery of radioactivity was >95% in rat and approximately
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 13
+90% in dog. In rats and dogs, the major route of elimination of radioactivity was in feces (and
+bile in rats) with negligible elimination in urine. Preliminary metabolite identification data
+suggests that [14C]-LY2623091 was well absorbed and eliminated primarily as metabolites. In
+rats, the major metabolic clearance pathway observed was the N,O-dealkylation C2H2) from
+the morpholine ring which accounted for a large portion of the dose (>33%). In dogs, there were
+two primary routes of metabolic clearance, the N,O-dealkylation observed in rats and oxidative
+deamination with a loss of the morpholine. The oxidative deamination was a major metabolic
+       clearance pathway in dogs.
+More information about the known and expected benefits, risks, and reasonably anticipated
+adverse events (AEs) may be found in the Investigator's Brochure (IB). Information on AEs
+expected to be related to the investigational product may be found in Section 7 (Development
+Core Safety Information) of the IB. Information on serious adverse events (SAEs) expected in
+the study population independent of drug exposure and that will be assessed by the sponsor in
+aggregate periodically during the course of the study, may be found in Section 6 (Effects in
+         Humans) of the IB.
+                5.2. Rationale and Justification for the Study
+This study is being conducted to determine the routes of elimination and extent of metabolism of
+LY2623091, including identification of metabolites in plasma, urine, and feces in healthy male
+subjects after a single oral administration of LY2623091 containing [14C]-LY2623091. The
+total administered dose will be 25 mg, which is supported by the available safety data from
+3 completed clinical studies. A Phase 2 dose ranging study evaluating multiple daily doses of up
+to 24.5 mg LY2623091 in hypertensive patients is planned. The radiotracer will be administered
+at approximately 100 uCi to each subject to facilitate characterization of the physiologic
+      disposition and metabolism of LY2623091.
+Findings from previous nonclinical and clinical studies indicate a relatively long half-life of
+LY2623091 and metabolite(s); therefore, the duration of clinical confinement will be a minimum
+   of 14 days postdose up to 21 days postdose.
+Following a single oral dose of [14C]-LY2623091 to male pigmented and nonpigmented rats,
+radioactivity was widely distributed in tissues and organs (Press and Shefchek 2014). In
+pigmented male rats, most tissues had peak radioactivity concentrations at 2 or 4 hours postdose.
+The tissues showing the highest peak concentrations were liver, uveal tract, adrenal gland,
+pituitary gland, renal cortex, and kidney. Radioactivity concentrations in central nervous system
+tissues protected by the blood:brain barrier (cerebellum, cerebrum, medulla, olfactory lobe, and
+spinal cord) were low, and were not detectable by 120 hours postdose. [14C]-
+LY2623091-related radioactivity was selectively associated with melanin-containing uveal tract
+tissues but not in skin or meninges. Distribution trends in the nonpigmented rats were generally
+  comparable with those seen in pigmented male rats.
+Therefore, the administration of a single 100-uCi oral dose of [14C]-LY2623091 would not be
+expected to represent a significant radiation exposure risk to healthy human subjects.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 14
+                                             6. Objectives
+               6.1. Primary Objective
+The primary objective is to determine the disposition of radioactivity and LY2623091 in healthy
+subjects following oral administration of a single dose of 25 mg (100 uCi) [14C]-LY2623091
+                 6.2. Secondary Objectives
+      The secondary objectives are:
+  To determine the pharmacokinetics (PK) of total radioactivity in plasma and whole
+  blood, and LY2623091 in plasma following oral administration of a single dose of 25 mg
+               (100 uCi) [14C]-LY2623091.
+To assess the mass balance of LY2623091 by quantifying radioactivity excretion in urine,
+       feces, and expired air (if applicable).
+  To identify the major metabolites of LY2623091 in plasma, urine, and feces (if
+               applicable).
+To assess the safety and tolerability of a single dose of LY2623091 in healthy subjects.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 15
+                                         7. Investigational Plan
+                  7.1. Summarv of Study Design
+This is an open-label, single-center study performed in healthy male subjects who will receive a
+single oral dose of 25 mg LY2623091 containing [14C]-LY2623091 (approximately 100 uCi).
+The compound will be administered as an oral solution. Up to 8 subjects will be enrolled. It is
+planned that up to 6 subjects will be dosed initially and 2 additional subjects will be dosed if
+needed (as determined by appropriate Lilly representatives) in order that a minimum of
+     4 subjects complete the study.
+Subjects will be admitted to the clinical research unit (CRU) on the day before dosing (Day -1).
+It is planned that subjects will remain at the CRU for a minimum of 14 days postdose (Day 15)
+to a maximum of 21 days postdose (Day 22), during which samples will be collected for the
+determination of whole blood and plasma radioactivity and plasma concentrations of LY2623091
+and metabolites, if applicable. Subjects may be discharged from the CRU on or after Day 15
+after at least 90% of the administered radioactivity (based on the actual dose) has been recovered
+or 24-hour urine and fecal samples from 2 consecutive collections have radioactivity levels less
+than 1.0% of the total administered radioactivity in urine and feces combined.
+Sequential urine and fecal samples will be obtained to determine the mass balance of
+[14C]-LY2623091 and to identify metabolites. Samples of expired air will be collected for the
+analysis of 14CO2 at selected time points. If a significant amount of administered radioactivity is
+present in expired air samples, these data will be included in the calculation of radioactivity dose
+recovery. The fraction of the dose eliminated in excreta will be estimated by measuring the
+amount of radioactivity in the urine and/or feces for each collection period. Radioactivity in all
+samples will be measured by liquid scintillation counting (LSC), either directly (in urine, plasma,
+and expired air) or after combustion in an oxidizer apparatus (in feces and whole blood).
+Sequential blood samples will be obtained after dose administration to quantify the PK of
+LY2623091. Separate blood samples will also be taken at selected time points for metabolite
+         profiling.
+Safety will be explored by clinical laboratory tests, vital sign measurements, 12-lead
+electrocardiograms (ECGs), body weight, physical examinations, and recording of AEs.
+A follow-up assessment, which will be conducted by telephone, will be performed approximately
+7 days after each subject has been discharged from the CRU or after early discontinuation from
+         the study.
+The study schedule of events is presented in Attachment 1.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 16
+                 7.2. Discussion of Design and Control
+This study has an open-label design with no control treatment. This type of design is standard
+and widely used in radiolabeled studies. Oral administration has been chosen as this is the
+intended clinical route of LY2623091 administration. The duration of the study is based on
+clinical PK data (t1/2 for LY2623091 is between 47.3 and 52.3 hours). Based upon the available
+clinical and preclinical PK of LY2623091, the duration of this study is considered adequate to
+     achieve the study objectives.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 17
+                                           8. Study Population
+              8.1. Criteria for Enrollment
+Eligibility of subjects for study enrollment will be based on the results of a screening medical
+history physical examination, clinical laboratory tests, and 12-lead ECG. The nature of any
+conditions present at the time of the physical examination and any preexisting conditions will be
+           documented.
+ Screening may occur up to 28 days prior to enrollment.
+Individuals who do not meet the criteria for participation in this study (screen failure) may not be
+         re-screened.
+Prospective approval of protocol deviations to recruitment and enrollment criteria, also known as
+ protocol waivers or exemptions, are not permitted.
+             8.1.1. Inclusion Criteria
+Subjects are eligible for enrollment in the study only if they meet all of the following criteria:
+  [1] Are overtly healthy males, as determined by medical history, physical
+          examination, clinical laboratory tests, and ECGs.
+[1a] Males will be sterile (including vasectomy) or if the subject is not sterile and
+    is sexually active, he will agree to use from Check-in until 3 months after
+      study exit/discharge, 1 of the following approved double barrier methods of
+       contraception: a male condom with spermicide, a sterile sexual partner and
+      use of spermicide, use by female sexual partner of an intrauterine device
+          with spermicide, a female condom with spermicide, contraceptive sponge
+         with spermicide, a diaphragm with spermicide, a cervical cap with
+    spermicide; or oral, implantable, transdermal, intravaginal, or injectable
+              contraceptives and use of spermicide.
+  [2] Are 18 to 65 years old, inclusive, at the time of screening.
+  [3] Have a body mass index (BMI) of 18.5 to 32.0 kg/m2, inclusive, at screening.
+[4] Have clinical laboratory test results within normal reference range for the
+ population or investigator site, or results with acceptable deviations that are
+     judged to be not clinically significant by the investigator.
+                [5]Have venous access sufficient to allow for blood sampling as per the protocol.
+[6] Are reliable and willing to make themselves available for the duration of the
+          study and are willing to follow study procedures.
+ [7] Have given written informed consent approved by Lilly and the institutional
+             review board (IRB) governing the site.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 18
+              8.1.2. Exclusion Criteria
+Subjects will be excluded from study enrollment if they meet any of the following criteria:
+[8] Are investigator site personnel directly affiliated with this study and their
+    immediate families. Immediate family is defined as a spouse, parent, child, or
+          sibling, whether biological or legally adopted.
+            [9] Are Lilly or Covance employees.
+[10] Are currently enrolled in a clinical trial involving an investigational product or
+ off-label use of a drug or device, or are concurrently enrolled in any other type
+    of medical research judged not to be scientifically or medically compatible
+                 with this study.
+               [11]Have participated, within the last 30 days, in a clinical trial involving an
+   investigational product. If the previous investigational product has a long
+   half-life, 3 months or 5 half-lives (whichever is longer) should have passed.
+[12] Have participated in a [14C]-study within the last 6 months prior to admission
+        for this study. The total 12-month exposure from this study and a maximum
+    of one other previous [14C]-study within 6 to 12 months of this study must be
+           within the Code of Federal Regulations (CFR) recommended levels
+         considered safe (per 21 CFR 361.1): less than 5000 mrem/year whole body
+                   exposure.
+   [13] Are persons who have previously completed or withdrawn from this study or
+       any other study investigating LY2623091, and have previously received the
+                investigational product
+     [14] Have known allergies to LY2623091, related compounds, or any components
+                of the formulation.
+               [15]Have an abnormality in the 12-lead ECG that, in the opinion of the
+ investigator, increases the risks associated with participating in the study.
+ [16] Have an abnormal blood pressure or heart rate (supine) as determined by the
+                 investigator.
+[17] Have a history of or current cardiovascular, respiratory, hepatic, renal,
+   gastrointestinal, endocrine, hematological, or neurological disorders capable
+  of significantly altering the absorption, metabolism, or elimination of drugs;
+  of constituting a risk when taking the study medication; or of interfering with
+             the interpretation of data.
+  [18] Regularly use known drugs of abuse and/or show positive findings on urinary
+           drug testing at screening and/or Check-in.
+     [19] Show evidence of human immunodeficiency virus (HIV) infection and/or
+                positive human HIV antibodies.
+               [20]Show evidence of hepatitis C and/or positive hepatitis C antibody.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 19
+               [21]Show evidence of hepatitis B and/or positive hepatitis B surface antigen.
+               [22]Intend to use prescription medication, over-the-counter medication, or herbal
+ preparations containing St. John's Wort, kava, garlic, ginger, ginko biloba, or guarana
+             within 14 days prior to admission.
+     [23] Have donated blood of more than 500 mL within the last month.
+[24] Have an average weekly alcohol intake that exceeds 21 units per week, or are
+      unwilling to stop alcohol consumption from 48 hours prior to admission and
+        while resident in the CRU (1 unit 12 OZ or 360 mL of beer; 5 OZ or 150 mL
+         of wine; 1.5 OZ or 45 mL of distilled spirits).
+   [25] Have consumed herbal supplements, grapefruits or grapefruit-containing
+  products, Seville oranges or Seville orange-containing products, star fruits or
+   star fruit-containing products within 7 days prior to dosing or intend to
+                consume during the study.
+ [26] Exposure to significant diagnostic, therapeutic, or employment-related
+    radiation within 12 months prior to dosing (for example, serial x-ray or
+          computed tomography scans, barium meal, current employment in a job
+            requiring radiation exposure monitoring).
+  [27] Are currently or have been smokers or users of tobacco or nicotine
+         replacement products within the 6 months prior to admission.
+  [28] Are unwilling to refrain from consuming xanthine-containing food and drink
+         from 48 hours prior to admission until discharge from the CRU.
+[29] Have a defecation pattern less than once per day or acute constipation within
+               3 weeks prior to admission.
+               [30]Have a history of clinically significant adverse drug reactions or "drug
+     allergy" to more than 3 types of systemically administered medications (all
+    penicillins and cephalosporins may be considered 1 type of medication for this
+                   purpose).
+[31] Have evidence of active renal disease (for example, diabetic renal disease,
+       polycystic kidney disease) or creatinine clearance of <80 mL/min (as
+      calculated by Cockcroft-Gault equation): [(140-age) X mass (kg)]/[72 X serum
+                 creatinine (mg/dL)]
+               [32]In the opinion of the investigator or sponsor, are unsuitable for inclusion in the
+                   study.
+                  8.1.3. Rationale for Exclusion of Certain Study Candidates
+Criteria [8] to [10] prevent conflict of interest in study participants. Criteria [11] through [32]
+exclude medical conditions, medication intolerance, and concomitant medication use that may
+    confound the assessment of study endpoints.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 20
+               8.2. Discontinuation
+The reason for and date of discontinuation will be collected for all subjects. All enrolled subjects
+who discontinue, regardless of whether or not they received investigational product, will have
+procedures performed as shown in the Study Schedule (Attachment 1).
+               8.2.1. Discontinuation of Subjects
+         8.2.1.1. Subjects Inadvertently Enrolled
+The criteria for enrollment must be followed explicitly. If the investigator site identifies a
+subject who did not meet enrollment criteria and who was inadvertently enrolled, the sponsor
+must be notified. If the sponsor identifies a subject who did not meet enrollment criteria and
+who was inadvertently enrolled, the investigator site will be notified. A discussion must occur
+between the Lilly clinical pharmacologist (CP) or clinical research physician (CRP) and the
+investigator to determine whether the subject may continue in the study without investigational
+product. Inadvertently enrolled subjects may be maintained in the study when the investigator
+and Lilly CP or CRP agree it is medically appropriate for that subject. The subject may not
+continue in the study without investigational product if the Lilly CP or CRP does not agree with
+the investigator's determination it is medically appropriate for the subject to continue. The
+investigator must obtain documented approval from Lilly CP or CRP to allow the inadvertently
+enrolled subject to continue in the study without investigational product.
+        8.2.1.2. Discontinuations from Investigational Product or from the Study
+Subjects will be discontinued from the study in the following circumstances:
+Enrollment in any other clinical trial involving an investigationa product or enrollment in
+any other type of medical research judged not to be scientifically or medically compatible
+              with this study.
+              Investigator Decision
+      the investigator decides that the subject should be discontinued from the study
+               Subject Decision
+            the subject requests to be discontinued from the study
+                Sponsor Decision
+  Lilly stops the study or stops the subject's participation in the study for medical,
+    safety, regulatory, or other reasons consistent with applicable laws, regulations,
+                 and good clinical practice (GCP)
+                Adverse Event
+      if a clinically significant event (CSE) occurs, appropriate measures should be
+         taken. Lilly or its designee should be alerted immediately. A CSE will be
+      defined as a moderate to severe AE, abnorma clinical sign, or clinical laboratory
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 21
+      finding that may pose a risk to the wellbeing of the subject. Refer to Safety
+                    Evaluations Section.
+      a clinically significant systemic hypersensitivity reaction occurs following
+        administration of the investigationa product (for example, drug-related
+           symptomatic bronchospasm, allergy-related edemalangioedema, or hypotension),
+       that requires parenteral medication, does not respond to symptomatic medication,
+        or results in clinical sequelae or an anaphylactic reaction.
+Following the investigator's determination that CSE criteria have been met and the investigator's
+judgment of relatedness to the investigational product is documented, a decision will be made
+between the investigator and Lilly or its designee regarding subject discontinuation.
+The nature of any conditions clinical signs or symptoms, or abnormal laboratory values present
+at the time of discontinuation and any applicable follow-up procedures will be documented.
+Discontinuation procedures are outlined in the Study Schedule (Attachment 1).
+          8.2.1.3. Subjects Lost to Follow-up
+A subject will be considered lost to follow-up if he is unable to be contacted by the study site.
+Site personne are expected to make diligent attempts to contact subjects who fail to return for a
+scheduled visit or were otherwise unable to be followed up by the site.
+               8.2.2. Discontinuation of Study Sites
+Study site participation may be discontinued if Lilly, the investigator, or the IRB of the study site
+judges it necessary for any reason consistent with applicable laws, regulations, and GCP.
+               8.2.3. Discontinuation of the Study
+The study will be discontinued, if no subjects have been dosed with [14C]-LY2623091 if Lilly
+judges it necessary for medical, safety, regulatory, or other reasons consistent with applicable
+       laws, regulations, and GCP.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 22
+                                              9. Treatment
+                 9.1. Treatment Materials and Supplies
+The study drug will consist of unlabeled and radiolabeled _Y2623091 to provide 25 mg of total
+active pharmaceutical ingredient with approximately 100 uCi of radioactivity in each unit dose
+container. An appropriate amount of vehicle will be added to the powder in the container and
+appropriately mixed before administration (as described in detail in a separate Pharmacy Manual,
+or equivalent document). The container will be rinsed twice with an appropriate vehicle; each
+time the subject will ingest the rinse. The dose will be prepared on the morning of dosing. The
+      study drug regimen is shown in Table RMAA.1.
+           Table RMAA.1.      Study Drug Regimen
+         Product:       LY2623091 and [14C]-LY2623091
+           Dose:      25 mg (approximately 100 uCi)
+                   (supplied as "powder-in-a-bottle")
+        Formulation:       Solution
+                9.2. Treatment Administration
+ The investigator or designee is responsible for:
+explaining the correct use of the investigational agent to the site personnel,
+      verifying that instructions are followed properly,
+maintaining accurate records of investigational product dispensing and collection,
+and returning all unused medication to Lilly or its designee at the end of the study.
+Subjects will be instructed to contact the investigator as soon as possible if he has a complaint or
+problem with the investigational product so that the situation can be assessed.
+All clinical trial material provided to the investigator will be stored in a secure place, and
+allocated and dispensed by appropriately trained persons. The allocation and dispensing of the
+investigational products will be fully documented and verified by a second person. Detailed
+records of the amounts of the investigational product received, dispensed and remaining at the
+    end of the study will be maintained.
+Dosing will be carried out by appropriately qualified CRU staff designated by the investigator.
+In addition, these designated personnel must be qualified to handle and dispense
+        radiopharmaceuticals.
+On the morning of Day 1, designated personnel (e.g., registered Nuclear pharmacist) will add the
+vehicle (aqueous ethanol followed by degassed Sprite) to the unit dose container with study
+drug and the contents will be mixed until all of the solid has dispersed (as described in detail in a
+separate Pharmacy Manual, or equivalent document). Each container will be marked with an
+identifier corresponding to the subject who will receive the dose from that container, including
+ the approximate amount of radioactivity in each dose.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 23
+The last meal on the day before dosing will be given no later than 2200 hours, although water
+will be allowed. After an overnight fast of at least 10 hours, the study drug solution
+(approximately 50 mL) will be administered to the subjects. The containers will be rinsed twice
+(approximately 50 mL each) by designated personnel using degassed Spritee. After the
+formulation and rinses are administered, 90 mL of room temperature water will be given to the
+subjects, so that a total of approximately 240 mL of liquid (150-mL vehicle/rinses plus 90 mL of
+room temperature water) will have been consumed by each subject as part of their dosing. Each
+subject will stand or sit while taking this dose and will not recline for at least 2 hours afterwards,
+except as necessary for sample collections and vital sign measurements. Each dosing vessel will
+be retained for analysis of residual radioactivity. Unused containers with study drug that were
+not reconstituted shall be kept secure until discarded in accordance with institution radiation
+guidelines. Fluids will be restricted from 1 hour prior to and until 1 hour after dosing with the
+exception of fluid included in the dosing mixture and rinses. Otherwise, water will be freely
+     available at all times.
+                9.3. Rationale for Selection of Dose
+The dose of 25 mg (100 uCi) LY2623091 is considered to be in the therapeutic dose range for
+the treatment of hypertension and is high enough to fully characterize the single oral dose PK of
+the compound. The use of 100 uCi was chosen because it is an industry standard and will
+provide sufficient radiation to determine the metabolite profile.
+                 9.4. Specific Restrictions/Requirements
+Prior to beginning the study, the subjects will complete screening procedures including informed
+consent, review of medical history, 12-lead ECG, vital signs, drug screen, height, weight, BMI,
+    and clinical laboratory tests.
+Throughout the study, subjects may undergo medical assessments and review of compliance with
+ restrictions before continuing in the study.
+Meals/Diet On the day of [14C]-LY2623091 administration (Day 1), the subjects will be fasted
+for at least 10 hours prior to dosing. Food will be restricted until at least 4 hours after dosing, at
+which time subjects will be given a high-fiber meal. Fluids will be restricted from 1 hour prior
+to and until 1 hour after dosing with the exception of fluid included in the dosing mixture and
+rinses. Otherwise, water will be freely available at all times. Meals will be provided as
+    appropriate at all other times.
+A high-fiber diet will be served throughout the study in order to promote gastrointestinal transit.
+Subjects will refrain from consuming grapefruit, grapefruit juice, grapefruit-containing products,
+Seville oranges or Seville orange juice, and star fruit or star fruit juice from 7 days prior to
+  dosing until the last specimen collection.
+Subjects will refrain from consuming xanthine-containing food and drink from 48 hours prior to
+     admission until discharge from the CRU.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 24
+Alcohol Subjects will not consume alcohol for 48 hours prior to admission and while resident
+in the CRU. Subjects that have an average weekly alcohol intake that exceeds 21 units (1 unit
+12 OZ or 360 mL of beer; 5 OZ or 150 mL of wine; 1.5 OZ or 45 mL of distilled spirits) per week
+(males up to age 65), or are unwilling to stop alcohol consumption from 48 hours prior to
+check-in until end of study will not be enrolled into the study.
+Smoking Smoking will not be permitted throughout the study. Subjects will not have used any
+tobacco- or nicotine-containing products (including, but not limited to, cigarettes, pipes, cigars,
+chewing tobacco, nicotine patches, nicotine lozenges, or nicotine gum) within 6 months prior to
+    dosing and during the entire study.
+Exercise No strenuous exercise will be allowed for 72 hours prior to dosing and during the
+          study.
+Contraception Males will be sterile (including vasectomy) or if the subject is not sterile and is
+sexually active, he will agree to use from Check-in until 3 months after study exit/discharge, 1 of
+the following approved double barrier methods of contraception: a male condom with
+spermicide, a sterile sexual partner and use of spermicide, use by female sexual partner of an
+intrauterine device with spermicide, a female condom with spermicide, contraceptive sponge
+with spermicide, a diaphragm with spermicide, a cervical cap with spermicide; or oral,
+implantable, transdermal, intravaginal, or injectable contraceptives and use of spermicide.
+              9.5. Blinding
+     This is an open-label study.
+                 9.6. Concomitant Therapy
+Acetaminophen or ibuprofen may be used at the discretion of the investigator. A low-fiber stool
+softener (for example, ColaceTM) may be administered as needed for daily bowel movements.
+Additional concomitant medications are prohibited during the study unless required to treat an
+            AE.
+           Ifthe need for concomitant medication arises, inclusion or continuation of the subject may be at
+the discretion of the investigator after consultation with a Lilly clinical pharmacologist or clinical
+research physician Any additional medication used during the course of the study must be
+           documented.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 25
+                                 10. Sample Collection and Safety Data Collection
+Attachment 1 lists the schedule for sample collections in this study.
+Attachment 2 lists the clinical laboratory tests that will be performed for this study.
+Attachment 3 summarizes the blood volumes for all blood sampling during the study.
+                10.1. Laboratory Samples
+Blood and urine samples will be collected to determine whether subjects meet
+inclusion/exclusion criteria and to monitor subject health. Routine clinical laboratory tests will
+    be analyzed by a local laboratory.
+Investigators must document their review of each laboratory safety report.
+Samples collected for specified laboratory tests will be destroyed within 60 days of receipt of
+confirmed test results. Tests are run and confirmed promptly whenever scientifically
+appropriate. When scientific circumstances warrant, however, it is acceptable to retain samples
+to batch the tests run, or to retain the samples until the end of the study to confirm that the results
+are valid. Certain samples may be retained for a longer period, if necessary, to comply with
+applicable laws, regulations, or laboratory certification standards.
+                      10.2. Samples for Pharmacokinetic and Pharmacodynamic
+                    Evaluations
+                10.2.1. Pharmacokinetic Samples
+            10.2.1.1. Whole Blood and Plasma Samples
+At the time points specified in the Study Schedule, venous blood samples of approximately
+10 mL each will be collected for PK analysis and radioanalysis (Attachment 1). Whole blood
+and plasma samples will be used to determine the plasma concentrations of LY2623091 and
+metabolites (as deemed appropriate). Additional venous blood samples (approximately 15 mL
+each) will be drawn for metabolite profiling at the times specified in the Study Schedule
+(Attachment 1). The actual date and time of each sampling will be recorded. Instructions for the
+collection and handling of blood samples will be provided by the sponsor.
+           10.2.1.2. Urine and Feces Samples
+Feces (if possible) and urine will be collected before study drug administration. After dosing
+with study drug, cumulative feces and urine samples will be collected as described below in
+specified containers according to the Study Schedule (Attachment 1) until the specified release
+       criteria have been met.
+Urine will be collected for the characterization of renal clearance at the specified intervals into
+1 or more containers (depending on volume excreted). An aliquot of each collection interval will
+be analyzed to yield the percentage of radioactivity excreted within that interval.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 26
+Feces from each bowel movement will be collected and the time of collection will be noted. For
+each subject, feces samples will be combined by the analytical laboratory for each 24-hour
+period and subsequently analyzed to determine the percentage of radioactivity excreted over that
+period. Toilet paper used after a bowel movement will be collected into a separate container
+from feces and analyzed for radioactivity if deemed appropriate. The inability to produce a fecal
+ sample will not be considered a protocol deviation.
+         10.2.1.3. Expired Air and Other Biological Samples
+A sample of expired air wil be collected for analysis of 14CO2 prior to dosing (negative control
+sample) and at the times indicated in the Study Schedule (Attachment 1). If a significant amount
+of the radioactivity is present in expired air samples, the raw data will be extrapolated to provide
+an estimate of the percentage of the dose eliminated via 14CO2. Additional expired air samples
+may be collected at some or all of the times that blood samples are drawn and only analyzed if
+           needed.
+Other biological fluids, such as vomit, may be collected, if deemed appropriate, to obtain
+      complete recovery of the dose.
+             10.2.2. Bioanalysis
+Samples will be analyzed at a laboratory approved by the sponsor and stored at a facility
+       designated by the sponsor.
+Whole blood, plasma, urine, expired air (if applicable), and fecal concentrations of radioactivity
+will be determined using LSC techniques. Blood and feces will be combusted prior to LSC.
+Plasma concentrations of LY2623091 will be determined using a validated liquid
+chromatography with tandem mass spectrometric detection method at a laboratory approved by
+the sponsor. The quantitation of metabolites may also be considered, if deemed appropriate.
+Metabolite identification in urine, feces, and plasma will be determined using appropriate
+techniques such as liquid chromatography/radiodetection and liquid chromatography/mass
+          spectrometry.
+Bioanalytical samples collected during radiolabeled studies will be retained for a maximum of
+2 years following last subject visit for the study. During this time, sample remaining after the
+bioanalyses may be used for exploratory analyses such as additional metabolism and/or protein
+          binding work.
+                  10.2.3. Pharmacodynamic Evaluations
+         Not applicable.
+                  10.3. Samples for Biomarker Research
+There is growing evidence that genetic variation may impact a patient's response to therapy.
+Variable response to therapy may be due to genetic determinants that impact drug absorption,
+distribution, metabolism, and excretion, the mechanism of action of the drug, the disease
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 27
+etiology and/or the molecular subtype of the disease being treated. Therefore, where local
+regulations and IRBs allow, a blood sample will be collected for pharmacogenetic (PGx) analysis
+     as noted in the Study Schedule.
+In the event of an unexpected AE or the observation of unusual response, the pharmacogenetic
+samples may be genotyped and analysis may be performed to evaluate a genetic association with
+response to LY2623091. These investigations may be limited to a focused candidate gene study
+or, if appropriate, genome wide analysis may be performed to identify regions of the genome
+associated with the variability observed in drug response. The pharmacogenetic samples will
+only be used for investigations related to disease and drug or class of drugs under study in the
+context of this clinical program. They will not be used for broad exploratory unspecified disease
+     or population genetic analysis.
+The samples will be coded with the subject number and stored for up to a maximum 15 years
+after the last subject visit for the study at a facility selected by the sponsor. The samples and any
+data generated from them can only be linked back to the subject by investigator site personnel.
+The duration allows the sponsor to respond to regulatory requests related to the investigational
+          product.
+Pharmacogenetic sampling will be a mandatory onetime sample that should be taken prior to
+         dosing on Day 1.
+              10.4. Safetv Evaluations
+Investigators are responsible for monitoring the safety of subjects who have entered this study
+and for alerting Lilly or its designee to any event that seems unusual, even if this event may be
+considered an unanticipated benefit to the subject.
+The investigator is responsible for the appropriate medical care of subjects during the study.
+Planned safety assessments and measures are detailed in Section 10.4.3, but additional
+assessments and safety tests may be performed at the investigator's discretion.
+The investigator remains responsible for following, through an appropriate health care option,
+AEs that are serious, considered related to study treatment or the study, or that caused the subject
+to discontinue before completing the study. The subject should be followed until the event is
+resolved or explained. Frequency of follow-up evaluation is left to the discretion of the
+        investigator.
+In addition to records of observations made at specific times, unexpected signs and symptoms
+and concomitant medications will be recorded in the clinical trial records throughout the study.
+              10.4.1. Adverse Events
+Lilly has standards for reporting AEs that are to be followed regardless of applicable regulatory
+   requirements that may be less stringent.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 28
+Study site personnel will record the occurrence and nature of each subject's preexisting
+conditions, including clinically significant signs and symptoms of the disease under treatment in
+         the study.
+After the ICF is signed, site personnel will record any change in the condition(s) and the
+occurrence and nature of any AEs. All AEs related to protocol procedures are reported to Lilly
+         or designee.
+Any clinically significant findings from ECGs, labs, vital sign measurements, and other
+procedures that result in a diagnosis should be reported as an AE to Lilly or its designee.
+Cases of pregnancy that occur during maternal or paternal exposures to the investigational
+product should be reported. Data on fetal outcome and breast-feeding are collected for
+ regulatory reporting and drug safety evaluation.
+Investigators will be instructed to report to Lilly or its designee their assessment of the potential
+relatedness of each AE to protocol procedure and/or investigationa product via the electronic
+       case report form (eCRF).
+The investigator decides whether he or she interprets the observed AEs as either related to
+disease, to the study medication, study procedure, or other concomitant treatment or pathologies.
+To assess the relationship of the AE to the investigational product, the following terminologies
+         are defined:
+ Related: a direct cause and effect relationship between the study treatment and
+             the AE is likely.
+ Possibly related: a cause and effect relationship between the study treatment and
+the AE has not been demonstrated at this time and is not probable, but is also not
+                impossible.
+ Unrelated: without question, the AE is definitely not associated with the study
+                treatment.
+As per Lilly's standard operating procedures, all "related" and "possibly related" AEs and SAEs
+will be defined as related to the investigational product.
+               10.4.2. Serious Adverse Events
+An SAE is any AE from this study that results in one of the following outcomes:
+                 death
+      initial or prolonged inpatient hospitalization
+  a life-threatening experience (that is, immediate risk of dying)
+     persistent or significant disabilitylincapacity
+            congenital anomaly/birth defect
+   considered significant by the investigator for any other reason
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 29
+Important medical events that may not result in death, be life-threatening, or require
+hospitalization may be considered SAEs when, based upon appropriate medical judgment, they
+may jeopardize the subject and may require medical or surgical intervention to prevent one of the
+   outcomes listed in this definition.
+Planned surgeries should not be reported as SAEs unless the underlying medical condition has
+    worsened during the course of the study.
+Study site personnel must alert Lilly or its designee of any SAE within 24 hours of investigator
+awareness of the event via a sponsor-approved method. If alerts are issued via telephone they
+are to be immediately followed with official notification on study-specific SAE forms. This
+24-hour notification requirement refers to the initial SAE information and all follow-up SAE
+         information.
+Serious AEs occurring up to and including the subject's last study visit wil be collected,
+regardless of the investigator's opinion of causation, in the clinical data collection database and
+   the pharmacovigilance system at the sponsor.
+The investigator does not need to actively monitor subjects for AEs once the trial has ended
+unless specified in the protocol. However, if an investigator becomes aware of SAEs occurring
+to a subject after the subject's participation in the trial has ended, the investigator should report
+them to the sponsor, regardless of the investigator's opinion of causation, and the SAEs will be
+ entered in the pharmacovigilance system at the sponsor.
+            10.4.2.1. Suspected Unexpected Serious Adverse Reactions
+Suspected unexpected serious adverse reactions (SUSARs) are serious events that are not listed
+in the IB and that the investigator identifies as related to investigational product or procedure.
+United States 21 CFR 312.32 and European Union Clinical Trial Directive 2001/20/EC and the
+associated detailed guidances or national regulatory requirements in participating countries
+require the reporting of SUSARs. Lilly has procedures that will be followed for the recording
+and expedited reporting of SUSARs that are consistent with global regulations and the associated
+        detailed guidances.
+               10.4.3. Other Safety Measures
+          10.4.3.1. Physical Examination
+Physical examinations and routine medical assessments will be conducted as specified in the
+Study Schedule and as clinically indicated (Attachment 1).
+         10.4.3.2. Vital Signs
+Blood pressure and pulse rate will be measured as specified in the Study Schedule and as
+    clinically indicated (Attachment 1).
+Blood pressure and pulse rate should be measured after at least 5 minutes supine.
+Body temperature will be measured as specified in the Study Schedule and as clinically indicated
+         (Attachment 1).
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 30
+           10.4.3.3. Body Weight
+Body weight will be recorded as specified in the Study Schedule and as clinically indicated
+         (Attachment 1).
+          10.4.3.4. Electrocardiograms
+For each subject, a single 12-lead ECG wil be collected according to the Study Schedule
+(Attachment 1). Electrocardiograms must be recorded before collecting any blood for safety or
+PK tests. Subjects must be supine for at least 5 minutes before ECG collection and remain
+supine but awake during ECG collection. Electrocardiograms may be obtained at additional
+times, when deemed clinically necessary. Collection of additional ECGs at a particular time
+point is allowed to ensure high quality records. All ECGs recorded should be stored at the
+      investigational site.
+Electrocardiograms will be interpreted by a qualified physician (the investigator or qualified
+designee) at the site as soon after the time of ECG collection as possible, and ideally while the
+subject is still present, to determine whether the subject meets entry criteria at the relevant
+visit(s) and for immediate subject management, should any clinically relevant findings be
+         identified.
+If a clinically significant quantitative or qualitative change from baseline is identified after
+enrollment, the investigator will assess the subject for symptoms (for example, palpitations, near
+syncope, syncope) to determine whether the subject can continue in the study. The investigator
+or qualified designee is responsible for determining if any change in subject management is
+needed and must document his/her review of the ECG printed at the time of evaluation from at
+least 1 ECG from each time point. Any new clinically relevant finding should be reported as an
+            AE.
+             10.4.4. Safety Monitoring
+The Lilly clinical pharmacologist or clinical research physician/scientist will monitor safety data
+    throughout the course of the study.
+Lilly will review SAEs within time frames mandated by company procedures. The Lilly clinical
+pharmacologist or research physician will consult with the functionally independent Global
+Patient Safety therapeutic area physician or clinical research scientist when appropriate, and
+periodically review trends and laboratory analytes.
+               10.4.5. Complaint Handling
+Lilly collects product complaints on investigational products and drug delivery systems used in
+clinical trials in order to ensure the safety of study participants, monitor quality, and to facilitate
+       process and product improvements.
+Complaints related to unblinded comparator drugs or concomitant drugs/drug delivery systems
+are reported directly to the manufacturers of those drugs/devices in accordance with the package
+          insert.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 31
+The investigator or his/her designee is responsible for handling the following aspects of the
+product complaint process in accordance with the instructions provided for this study:
+ Recording a complete description of the product complaint reported and any associated
+   AEs using the study-specific complaint forms provided for this purpose.
+Faxing the completed product complaint form within 24 hours to Lilly or its designee.
+If the investigator is asked to return the product for investigation, he/she will return a copy of the
+    product complaint form with the product.
+                     10.5. Appropriateness and Consistency of Measurements
+All assessments made in this study are standard, widely used, and generally recognized as
+reliable, accurate, and relevant. Analyses for PK will be based on a validated bioanalytical assay
+and will use conventional PK analysis methods. The assessment of radioactivity in whole blood,
+plasma, urine, feces, and expired air (if applicable) will be performed by well-established
+      methods in drug development research.
+               10.6. Compliance
+Every attempt will be made to select subjects who have the ability to understand and comply
+with instructions. Noncompliant subjects may be discontinued from the study. The time and day
+of drug administration will be recorded. Drug accountability records will be maintained by the
+         study site.
+The specifications in this protoco for the timings of safety and PK sampling are given as targets,
+to be achieved within reasonable limits. Modifications may be made to the time points based
+upon the safety and PK information obtained. The scheduled time points may be subject to
+minor alterations; however, the actual time must be correctly recorded in the CRF. The recorded
+time of the PK samples will be detailed within the electronic file sent to the Lilly Global
+Laboratory System (GLS) and not collected on the CRF, except for unscheduled PK samples.
+Any major modifications that might affect the conduct of the study, subject safety and/or data
+  integrity wil be detailed in a protocol amendment.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 32
+                                        11. Sample Size and Data Analyses
+                11.1. Determination of Sample Size
+Up to 8 subjects will be enrolled. It is planned that up to 6 subjects will be dosed initially and 2
+additional subjects will be dosed if needed, as determined by Lilly, in order that a minimum of
+4 subjects complete the study. If emesis occurs within the first 4 hours after dose administration,
+            asubject may be replaced. The number of subjects is chosen to provide adequate PK data and
+mass balance information while limiting the number of subjects exposed to radiopharmaceuticals
+      in non-therapeutic research.
+The sample size is customary for 14C-disposition studies. Formal statistical hypothesis testing
+will not be performed as part of the primary objective of the study.
+              11.2. Data Analysis Plans
+               11.2.1. General Considerations
+Statistical analysis of this study will be the responsibility of Eli Lilly and Company or designee
+Pharmacokinetic analyses will be conducted on the full analysis set. This set includes all data
+from all subjects receiving the dose of the investigational product and for whom evaluable PK
+data are obtained. Safety analyses will be conducted for all enrolled subjects, whether or not
+   they completed all protocol requirements.
+Additional exploratory analyses of the data will be conducted as deemed appropriate. Analyses
+will be fully detailed in the statistical analysis plan.
+              11.2.2. Study Participant Disposition
+All subjects who discontinue from the study will be identified, and the extent of their
+participation in the study will be reported. If known, a reason for their discontinuation will be
+           given.
+              11.2.3. Study Participant Characteristics
+The subject's age, sex, weight, height, or other demographic characteristics will be recorded and
+may be used in the PK and safety analyses as quantitative or classification variables.
+                11.2.4. Pharmacokinetic Analyses
+           11.2.4.1. Pharmacokinetic Parameter Estimation
+Pharmacokinetic parameter estimates for whole blood and plasma total radioactivity, plasma
+LY2623091, and metabolites (if applicable) will be calculated by standard noncompartmental
+        methods of analysis.
+The primary parameters for analysis will include Cmax, tmax, AUC from time zero to time t,
+where t is the last time point with a measurable concentration (AUC[O-tlast]), AUC(0-o0), and
+t1/2. Other noncompartmental parameters, such as apparent total body clearance (CL/F) and
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 33
+apparent volume of distribution during the terminal phase after extra-vascular administration
+(Vz/F), may be reported. The blood cell/plasma distribution will be calculated for radiolabeled
+material. The percentage of radiolabeled dose excreted in feces and urine will be calculated.
+The percentage of radiolabeled dose excreted in breath will also be calculated, if applicable.
+        11.2.4.2. Pharmacokinetic Statistical Inference
+Descriptive statistics will be calculated for PK parameters but no formal statistical analysis is
+          planned.
+                  11.2.5. Pharmacodynamic Analyses
+          Not applicable
+                     11.2.6. Pharmacokinetic/Pharmacodynamic Analyses
+         Not applicable.
+              11.2.7. Safety Analyses
+       11.2.7.1. Clinical Evaluation of Safety
+All investigational product and protocol procedure AEs will be listed, and if the frequency of
+events allows, safety data will be summarized using descriptive methodology.
+The incidence of symptoms will be presented by severity and by association with investigational
+product as perceived by the investigator. Symptoms reported to occur prior to enrollment will be
+distinguished from those reported as new or increased in severity during the study. Each
+symptom will be classified by the most suitable term from the medical regulatory dictionary.
+       11.2.7.2. Statistical Evaluation of Safety
+Safety parameters that will be assessed include safety lab parameters and vital signs. The
+parameters will be listed and summarized using standard descriptive statistics. Additional
+analysis will be performed if warranted upon review of the data.
+              11.3. Interim Analyses
+No interim analyses are planned for this study. If an unplanned interim analysis is deemed
+necessary, the Lilly clinical pharmacologist, clinical research physician/investigator, or designee
+will consult with the appropriate medical director or designee to determine if it is necessary to
+        amend the protocol.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 34
+                                           12. Data Management Methods
+               12.1. Data Quality Assurance
+To ensure accurate, complete, and reliable data, Lilly or its representatives will do the following:
+ provide instructional material to the study sites, as appropriate.
+sponsor start-up training to instruct the investigators and study coordinators. This
+training will give instruction on the protocol, the completion of the CRFs, and study
+                procedures.
+        make periodic visits to the study site.
+be available for consultation and stay in contact with the study site personnel by mail,
+             telephone, and/or fax.
+review and evaluate CRF data and/or use standard computer edits to detect errors in data
+               collection.
+         conduct a quality review of the database.
+In addition, Lilly or its representatives will periodically check a sample of the subject data
+recorded against source documents at the study site. The study may be audited by Lilly and/or
+regulatory agencies at any time. Investigators will be given notice before an audit occurs.
+The investigator will keep records of all original source data. This might include laboratory
+tests, medical records, and clinical notes. If requested, the investigator will provide the sponsor,
+applicable regulatory agencies, and applicable IRBS with direct access to the original source
+           documents.
+                12.2. Data Capture Systems
+                  12.2.1. Source Data and Case Report Form
+A source document is the first record of data These can be paper (for example, ECG tracing or
+subject diary), a paper CRF on which the data is initially recorded, or data captured directly on
+an investigator site electronic system (for example, electronic health record). The site must
+retain all source records and must maintain a record of any data where source data are directly
+       entered into the paper CRF.
+Data may then be entered into either an electronic or paper CRF and the process will be
+documented and communicated by the sponsor to the investigator site before first subject visit.
+Some investigator site data may be collected directly in the paper CRF whereas other data that is
+collected by the site on paper or electronic records may be transferred to the paper CRF.
+Lilly does not allow direct source data entry into Lilly computer systems, with the exception of
+ the investigator site systems at the Lilly CRU.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 35
+For data handled by a data management third-party organization (TPO), CRF data and some or
+all data that are related will be managed and stored electronically in the TPO system.
+Subsequent to the final database lock, validated data will be transferred to the sponsor.
+For data handled internally CRF data and some or all data that are related will be managed by
+the sponsor and stored electronically in the sponsor's system.
+            12.2.2. Ancillary Data
+Bioanalytical data will be stored electronically in the bioanalytical laboratory's database. Data
+will subsequently be transferred from the bioanalytical laboratory to the TPO's system.
+Data from complaint forms submitted to Lilly will be encoded and stored in the global product
+         complaint management system
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 36
+                                13. Informed Consent, Ethical Review, and Regulatory
+                                               Considerations
+               13.1. Informed Consent
+The investigator is responsible for ensuring that the subject understands the potential risks and
+benefits of participating in the study including answering any questions the subject may have
+throughout the study and sharing in a timely manner any new information that may be relevant to
+the subject's willingness to continue his participation in the trial.
+The ICF will be used to explain the potential risks and benefits of study participation to the
+subject in simple terms before the subject is entered into the study, and to document that the
+subject is satisfied with his understanding of the potential risks and benefits of participating in
+the study and desires to participate in the study.
+The investigator is ultimately responsible for ensuring that informed consent is given by each
+subject before the study is started. This includes obtaining the appropriate signatures and dates
+on the ICF prior to the performance of any protocol procedures and prior to the administration of
+     the investigational product.
+As used in this protocol, the term "informed consent" includes all consent and assent given by
+ subjects or their legal representatives.
+              13.2. Ethical Review
+Lilly or its representatives must approve all ICFS before they are submitted to the IRB and are
+used at investigative sites. All ICFs must be compliant with the ICH guideline on GCP.
+The investigator must give assurance that the IRB was properly constituted and convened as
+required by ICH guidelines and other applicable laws and regulations.
+Documentation of IRB approval of the protocol and the ICF must be provided to Lilly before the
+study may begin at the investigative site. The IRB will review the protocol as required.
+The study site's IRB should be provided with the following:
+ The current IB or package labeling and updates during the course of the study.
+                 ICF.
+            Relevant curricula vitae.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 37
+                13.3. Regulatory Considerations
+  This study will be conducted in accordance with:
+    1. Consensus ethics principles derived from international ethics guidelines,
+       including the Declaration of Helsinki and Council for International Organizations
+            of Medical Sciences International Ethical Guidelines.
+                 2. The ICH GCP Guideline [E6].
+              3. Applicable laws and regulations.
+The investigator or designee will promptly submit the protoco to the applicable IRB and the
+clinical site's Radiation Safety Committee. This radiolabeled clinical study is being conducted
+    under the IND filed for LY2623091 (IND No. 121248).
+All or some of the obligations of the sponsor will be assigned to a TPO.
+An identification code assigned to each subject will be used in lieu of the subject's name to
+protect the subject's identity when reporting AEs and/or other trial-related data.
+             13,3.1. Investigator Information
+Site-specific contact information may be provided in a separate document.
+              .3,3.2. Protocol Signatures
+The sponsor's responsible medical officer will approve the protocol, confirming that, to the best
+of his or her knowledge, the protocol accurately describes the planned design and conduct of the
+          study.
+After reading the protocol, each principal investigator will sign the protocol signature page and
+send a copy of the signed page to a Lilly representative.
+              13.3.3. Final Report Signature
+The investigator or designee will sign the clinical study report for this study indicating
+agreement with the analyses, results, and conclusions of the report.
+The sponsor's responsible medical officer and statistician wil sign/approve the final clinical
+study report for this study, confirming that, to the best of his or her knowledge, the report
+accurately describes the conduct and results of the study.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 38
+                                              14. References
+Press RJ, Shefchek D. 2014. Pharmacokinetics, Elimination, Metabolism, and Distribution of
+    [14C]LY2623091 in Male and Female Sprague Dawley and Male Long Evans Rats Following
+     a Single 5 mg/kg Oral Dose of [14C]LY2623091. Document ID Covance 8294993.
+Shibata H and Itoh H. Mineralocorticoid receptor-associated hypertension and its organ damage:
+Clinical relevance for resistant hypertension. Am J Hypertens. 2012;25(5):514-523
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 39
+                                     Attachment 1. Protocol RMAA Study Schedule
+         LY2623091
+      I7T-MC-RMAA Protocol                                                          Page 40
+Study Schedule Protocol I7T-MC-RMAA
+            Day(s)    Screening                       1                             2                                  3 14                                     Discharge                                            Follow-up                                                          Comments
+                                  -1
+                              Check-in           ~15 ~15 -22 22
+                                                          ~7 days afterFollow-up assessment will be conducted by
+      Procedure   -28 to -1 days                                            Discharge or                                                     telephone
+                 prior to Day 1
+                                                                 ED
+  Informed Consent          X
+Subject Admission to CRU            X
+Subject Discharge from CRU                                     X                          In case of premature discontinuation of
+                                              study participation, efforts will be made to
+                                                      perform all discharge assessments
+      LY Dosing                           X                                 Dosing occurs after all predose procedures
+                                                     and predose sample collections are
+                                                                    completed
+   Medica History           X
+       Height                X
+       Weight               X
+   Body Mass Index          X
+Vital Signs (supine)         X                X                       X                             X                                          X                            Vital signs include blood pressure and pulse
+                                    (Predose,(24h)   rate. Body temperature will be obtained at
+                                     3h, 8h)   Screening and as clinically indicated. Vita
+                                                  signs will be collected at Screening,
+                                                 Check-in, Predose, and 3, 8, and 24 hours
+                                                postdose, at Discharge, and as clinically
+                                                                   indicated.
+Clinical Lab Tests          X                 X                              X                                          X                                 See Attachment 2, Clinical Laboratory
+                                                              Tests, for details
+    Physical Exam                   X                                           xa                                     a Abbreviated physical examination
+     12-lead ECG            X                    X                                             X
+     PGx Sample                          X                                    Pharmacogenetic sampling is a mandatory
+                                    (Predose)   one time sample that should be taken prior
+                                                               to dosing on Day 1
+     LY2623091
+      I7T-MC-RMAA Protocol                                                          Page 41
+            Day(s)    Screening                       1                             2                                  3 14            Check-in                               ~15 -22 ~15 22                                            Follow-up                                                    Comments
+                                  -1                   Discharge
+                                                          ~7 days afterFollow-up assessment will be conducted by
+      Procedure   -28 to -1 days                                            Discharge or                                                     telephone
+                 prior to Day 1
+                                                                 ED
+    Urine Samples            X                   X                         X                               X                                      X                                    Urine samples will be collected at
+                            (-12 - Oh)(0 6h,      (0 24h)            (0 24h)           Screening, Day -1 (-12 to O hours), Day 1
+                                     6 -12h, (0 to 6, 6 to 12, and 12 to 24 hours), and at
+                                      12 24h) 24 hour intervals thereafter until the study
+                                              release criteria have been met (as necessary)
+    Feces Samples                   X                         X                               X                                      X                                Feces samples will be collected on Day -1
+                                     (0 24h)(0 24h)      (0 24h)  (if possible), on Day 1 (0 to 24 hours), and
+                                            at 24-hour intervals thereafter until the study
+                                                    release criteria have been met (as
+                                               necessary). The inability to produce a fecal
+                                                  sample will not be considered a protoco
+                                                                   deviation.
+ Expired Air Samples                X                      X                            X                             Expired air samples will be collected on
+                                    (2h, 4h, (24h)   Day -1, Day 1 (2, 4, and 6 hours postdose),
+                                        6h)                 and 24 hours postdose.
+                                                   Additional expired air samples may be
+                                             collected at some or all of the time points at
+                                                   which blood samples are drawn and only
+                                                              analyzed if needed.
+Plasma PK and 14C Samples                  X                        X                               X                                     X                           PK and 14c samples will be collected on
+                                    (Predose,(24h)      (every         (every 24hDay 1 (predose, 0.5, 1, 2, 3, 4, 6, 8, 10, and
+                                    0.5h, 1h,    24h until             until    12 hours postdose), 24 hours postdose, and
+                                     2h, 3h,     criteria        criteria are     every 24 hours thereafter unti the study
+                                     4h, 6h,     are met)              met)        release criteria have been met (as
+                                    8h, 10h,                      necessary).
+                                       12h)   PK sampling times are given as targets to be
+                                                     achieved within reasonable limits
+                                                (+10 minutes for time points earlier than
+                                              24 hours; +1 hour for time points later than
+                                                                    24 hours)
+     LY2623091
+      I7T-MC-RMAA Protocol                                                          Page 42
+Plasma Metabolite Profiling                  X                         X                               X                            Metabolite profiling samples will be
+                                    (Predose,(24h)      (48h)  collected on Day 1 (predose, 2, 3, 4, 6, 8,
+                                     2h, 3h,       and 12 hours postdose), and at 24 and
+                                     4h, 6h,                   48 hours postdose
+                                     8h, and
+                                       12h)
+Abbreviations: CRU = clinical research unit; ECG = electrocardiogram; ED = Early Discontinuation; LY E LY2623091; PGx = pharmacogenetic;
+ PK pharmacokinetics.
+       Notes
+Subjects may be discharged from the CRU at any time after a minimum stay of 14 days postdose (Day 15) once at least 90% of the administered radioactivity
+(based on the actual dose) has been recovered, or 24-hour urine and fecal samples from 2 consecutive collections have radioactivity levels less than 1.0% of the
+total administered radioactivity in urine and feces combined. These discharge procedures are also to be performed for a subject who discontinues the study early.
+     LY2623091
+             I7T-MC-RMAA Protocol                                                Page 43
+                               Attachment 2. Protocol RMAA Clinical Laboratory Tests
+          Laboratory Tests
+          Hematology:a                       Clinical Chemistrya
+           Hematocrit                              Sodium
+            Hemoglobin                            Potassium
+ Erythrocyte count (red blood cells [RBC])        Bicarbonate
+         Mean cell volume (MCV)                   Chloride
+        Mean cell hemoglobin (MCH)               Glucose (random)
+   Mean cell hemoglobin concentration (MCHC) Blood urea nitrogen (BUN)
+   Leukocytes (white blood cells [WBC])         Total protein
+          Cell Morphology                          Albumin
+         Absolute counts of:                   Total bilirubin
+            Neutrophils                        Alkaline phosphatase
+             Lymphocytes                  Aspartate aminotransferase (AST/SGOT)
+              Monocytes                     Alanine aminotransferase (ALT/SGPT)
+            Eosinophils                          Creatinine
+             Basophils
+            Platelets                        Ethanol testingc
+         Urinalysisa                         Urine drug screenc
+        Specific gravity                Hepatitis B surface antigenb
+              pH                            Hepatitis C antibodyb
+            Protein                       Human immunodeficiency virus (HIV)b
+            Glucose
+            Ketones
+           Bilirubin
+           Urobilinogen
+             Blood
+           Nitrite
+a Results will be validated by the lab at the time of testing.
+           bPerformed at Screening only.
+           cUrine drug screen will be performed at Screening and Check-in. Ethanol testing (breath) will be performed at
+    Check-in but not at Screening.
+         LY2623091
+             I7T-MC-RMAA Protocol                                                Page 44
+                                   Attachment 3. Protocol RMAA Blood Sampling Summary
+This table summarizes the approximate number of venipunctures and blood volumes for all
+blood sampling (screening, safety laboratories, and bioanalytical assays) during the study. Fewer
+venipunctures and blood draws may actually occur, but this will not require a protocol
+           amendment.
+       Protocol I7T-MC-RMAA Sampling Summary
+                                   Maximum Blood Volume  Maximum Number                 Maximum Total
+           Purpose                   per Sample (mL)                                    of Blood Samples                                                       Volume (mL)
+      Screening testsa                      16                                         1                                                       16
+  Clinical laboratory testsa                8.5                                   3                                                25.5
+        LY2623091 Assay and                  10                                   31                                                  310
+        Radioanalysis
+       Metabolite Assay                     15                                        9                                                      135
+       Pharmacogenomio sample                10                                  1                                                10
+          Total                                                            496.5
+Total for clinica purposes [rounded up to nearest 10 mL]                            500
+           aAdditional samples may be drawn if needed for safety purposes.
+         LY2623091
+
